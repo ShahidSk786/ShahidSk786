@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL,CV**
+- 🌱 I’m currently learning **Python, SQL,CV,java**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahid-shaikh-32089427b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/shahid-shaikh-32089427b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💬 Ask me about **Python,C**
+- 💬 Ask me about **Python,C,java**
 
 - 📫 How to reach me **shaikhshahid9766572811@gmail.com**
 
